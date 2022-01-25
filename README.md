@@ -1,2 +1,0 @@
-# dwm
-A DWM fork
